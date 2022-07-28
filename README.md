@@ -1,4 +1,9 @@
 # horiseon-refactor
 
-1. Fixed Link in navigation bar
-2. Titled something other than just website
+![horiseon-page](./assets/images/horiseon_ss.png)
+
+## desrciption
+
+refacter for html and css
+
+link to the live site: [horiseon](https://tylerneal27.github.io/horiseon-refactor/)
