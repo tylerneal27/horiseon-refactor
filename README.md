@@ -4,6 +4,6 @@
 
 ## desrciption
 
-refacter for html and css
+refactoring for html and css
 
 link to the live site: [horiseon](https://tylerneal27.github.io/horiseon-refactor/)
